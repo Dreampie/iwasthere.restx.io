@@ -1,0 +1,13 @@
+{
+  "name": "kontext",
+  "homepage": "https://github.com/hakimel/kontext",
+  "_release": "27ae77b1c5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "27ae77b1c56b13ee87fe6f50340a79d61481fccd"
+  },
+  "_source": "git://github.com/hakimel/kontext.git",
+  "_target": "*",
+  "_originalSource": "kontext"
+}
